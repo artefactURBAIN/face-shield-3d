@@ -1,0 +1,1 @@
+Our 3D model is based on a 3d model by Thingiverse user Johnny_Woo : https://www.thingiverse.com/thing:4237992
