@@ -1,7 +1,7 @@
 # face-shield-3d
  Faceshield.ca 3D models for various printers
  
-========================================================================================================================================
+===================================================================
 
 Artists and makers mobilize in support of the health sector
 
@@ -13,7 +13,7 @@ Behind the initiative are Artéfact urbain, a Saint Casimir-based company specia
 
 https://faceshield.ca/the-project/
 
-========================================================================================================================================
+===================================================================
 
 Artistes et makers portneuvois se mobilisent pour prêter main forte au milieu de la santé
 
